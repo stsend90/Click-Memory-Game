@@ -2,8 +2,8 @@ import React from 'react';
 
 const style = {
   logoIcon: {
-    width: 250,
-    heigth: 200
+    width: 450,
+    heigth: 400
   },
   bgDark: {
     backgroundColor: `rgb(1,0,1)`
