@@ -1,0 +1,11 @@
+.mainStyle {
+    max-width: 750px;
+    margin: auto;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/48db8cc8-bc54-4ac4-a791-ef75d6416986/dcsgik3-db1704c9-f3e9-44ab-97b7-0f4211d99830.jpg/v1/fill/w_1024,h_768,q_75,strp/naruto_background_5_by_pungpp_dcsgik3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvNDhkYjhjYzgtYmM1NC00YWM0LWE3OTEtZWY3NWQ2NDE2OTg2XC9kY3NnaWszLWRiMTcwNGM5LWYzZTktNDRhYi05N2I3LTBmNDIxMWQ5OTgzMC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hDcjv5PHV8bnDFj43pjBF_6OU-EFhkRi9d9tqY5zbho);
+  }
