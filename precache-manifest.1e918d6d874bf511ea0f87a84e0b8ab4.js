@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fedf5d2d633bc5f9b37523630ee5d734",
+    "revision": "03d01726303fceb2c5172ae99bdf526e",
     "url": "/Click-Memory-Game/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Click-Memory-Game/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "1f4fe018b8f60225364e",
+    "revision": "4b2033774ec8052cb206",
     "url": "/Click-Memory-Game/static/css/main.51ac19f4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Click-Memory-Game/static/js/2.c7977605.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f4fe018b8f60225364e",
-    "url": "/Click-Memory-Game/static/js/main.eb923fc3.chunk.js"
+    "revision": "4b2033774ec8052cb206",
+    "url": "/Click-Memory-Game/static/js/main.d96f147b.chunk.js"
   },
   {
     "revision": "67373bd950b020253713",
